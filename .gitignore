@@ -1,4 +1,12 @@
-.vs/
+
 *.vsidx
 bin/
 obj/
+=======
+bin/
+obj/
+*.user
+*.suo
+*.vspscc
+*.vssscc
+
